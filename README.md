@@ -79,3 +79,17 @@
     - Seon-Young Park, **Jaesung Park**, Minsub Shim, Yunku Kang, Myung-Soo Kim.
     *Sweep-based Compression and Deformation of 3D Blood Vessel Models*.
     HCI 2013 (2013): 11-14.
+
+## Codes
+
+- My personal Vulkan projects for the purpose of learning and for fun
+    - [vkovr](https://github.com/jaesung-cs/vkovr)
+        - Oculus VR SDK with Vulkan
+    - [superlucent](https://github.com/jaesung-cs/superlucent)
+        - Vulkan physics simulation and rendering
+        - To run simulation and rendering on GPU without CPU-GPU data transfer
+        - Smoothed Particle Hydrodynamics (SPH) fluid simulation on GPU
+        - Spatial Hashing for collision detection
+    - [elasticize](https://github.com/jaesung-cs/elasticize)
+        - Vulkan compute
+        - Radix sort on GPU with Vulkan subgroup
