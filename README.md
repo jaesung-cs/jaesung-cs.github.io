@@ -4,20 +4,20 @@
 
 - **Ph.D.** in Computer Science, **University of North Carolina at Chapel Hill**, USA, Sep 2015 -- May 2020
     - Advised by Prof. Dinesh Manocha
-    - item Research interests: robot motion planning, machine learning, geometric modeling, parallel programming
+    - Research interests: robot motion planning, machine learning, geometric modeling, parallel programming
 - **B.S.**, **Seoul National University**, South Korea, Mar 2011 -- Feb 2015
-    - item Computer Science major, Mathematics minor
-    - item GPA: 4.06/4.30 (cumulative), 4.22/4.30 (major), Summa Cum Laude
+    - Computer Science major, Mathematics minor
+    - GPA: 4.06/4.30 (cumulative), 4.22/4.30 (major), Summa Cum Laude
 
 ## Work Experience
 
-- **Cupix**, software researcher, Jul 2020 -- Current
-    - Massive point cloud processing and rendering, Photogrammetry, computational geometry
+- **Cupix**, software researcher, Jul 2020 -- Present
+    - Massive point cloud processing and rendering, photogrammetry, computational geometry
 - **Moloco**, software engineer intern, May -- Aug 2017
 	  - Data analysis and data infra programming using Java and Google Cloud Platform
-- Samsung Code Mentoring instructor, May -- Jul 2015
-- International Olympiad in Informatics (IOI) Student Coach of the Korea team, 2014
-- Korea Olympiad in Informatics (KOI) coach and problem setter, 2011 -- 2015.
+- Samsung Code Mentoring, instructor, May -- Jul 2015
+- International Olympiad in Informatics (IOI), student Coach of the Korea team, 2014
+- Korea Olympiad in Informatics (KOI), coach and problem setter, 2011 -- 2015.
 - International Olympiad in Informatics (IOI) Training Camp in Korea, coach and problem setter, 2010 -- 2015
 
 ## Awards
