@@ -80,6 +80,11 @@
     *Sweep-based Compression and Deformation of 3D Blood Vessel Models*.
     HCI 2013 (2013): 11-14.
 
+## Scholarship/Assistantship
+
+- Doctoral Merit Assistantship, University of North Carolina at Chapel Hill, 2015
+- National Science and Engineering Undergraduate Scholarship, South Korea, 2011-2014
+
 ## Codes
 
 - My personal Vulkan projects for the purpose of learning and for fun
