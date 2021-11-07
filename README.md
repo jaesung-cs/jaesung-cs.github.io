@@ -4,7 +4,7 @@
 
 - **Ph.D.** in Computer Science, **University of North Carolina at Chapel Hill**, USA, Sep 2015 -- May 2020
     - Advised by Prof. Dinesh Manocha
-    - Research interests: robot motion planning, machine learning, geometric modeling, parallel programming
+    - Research interests: robot motion planning, machine learning, collision detection
 - **B.S.**, **Seoul National University**, South Korea, Mar 2011 -- Feb 2015
     - Computer Science major, Mathematics minor
     - GPA: 4.06/4.30 (cumulative), 4.22/4.30 (major), Summa Cum Laude
