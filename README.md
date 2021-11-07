@@ -23,8 +23,8 @@
 ## Awards
 
 - ACM International Collegiate Programming Contest (ACM-ICPC)
-	  - World Finals: 51st place (2015), 36th place (2012)
-	  - Asia Daejeon Regional: 1st place (2014), 5th place (2013), 3rd place (2012), 1st place (2011)
+    - World Finals: 51st place (2015), 36th place (2012)
+    - Asia Daejeon Regional: 1st place (2014), 5th place (2013), 3rd place (2012), 1st place (2011)
 - Korea Computer Graphics Society Thesis Competition: Excellence Prize (2014)
 - Korean Mathematical Competition for University Students, Major Division: Bronze Prize (2013, 2014)
 - Undergraduate Research Program (URP): First Prize (2012)
