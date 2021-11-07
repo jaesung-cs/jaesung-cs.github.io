@@ -14,10 +14,10 @@
 - **Cupix**, software researcher, Jul 2020 -- Present
     - Massive point cloud processing and rendering, photogrammetry, computational geometry
 - **Moloco**, software engineer intern, May -- Aug 2017
-	  - Data analysis and data infra programming using Java and Google Cloud Platform
+    - Data analysis and data infra programming using Java and Google Cloud Platform
 - Samsung Code Mentoring, instructor, May -- Jul 2015
 - International Olympiad in Informatics (IOI), student Coach of the Korea team, 2014
-- Korea Olympiad in Informatics (KOI), coach and problem setter, 2011 -- 2015.
+- Korea Olympiad in Informatics (KOI), coach and problem setter, 2011 -- 2015
 - International Olympiad in Informatics (IOI) Training Camp in Korea, coach and problem setter, 2010 -- 2015
 
 ## Awards
