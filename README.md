@@ -11,9 +11,9 @@
 
 ## Work Experience
 
-- **NAVER LABS**, software researcher, Feb 2022 -- Present
-    - NeRF, neural rendering, CUDA, WebGL rendering
-- **Cupix**, software researcher, Jul 2020 -- Present
+- **NAVER LABS**, research software engineer, Feb 2022 -- Present
+    - NeRF, neural rendering, CUDA programming, WebGL rendering
+- **Cupix**, research software engineer, Jul 2020 -- Present
     - Massive point cloud processing and rendering, photogrammetry, computational geometry
 - **Moloco**, software engineer intern, May -- Aug 2017
     - Data analysis and data infra engineering
