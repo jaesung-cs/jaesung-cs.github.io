@@ -5,39 +5,24 @@
 - **Ph.D.** in Computer Science, **University of North Carolina at Chapel Hill**, USA, Sep 2015 -- May 2020
     - Advised by Prof. Dinesh Manocha
     - Research interests: robot motion planning, machine learning, collision detection
-- **B.S.**, **Seoul National University**, South Korea, Mar 2011 -- Feb 2015
-    - Computer Science major, Mathematics minor
+- **B.S.**, in Computer Science, **Seoul National University**, South Korea, Mar 2011 -- Feb 2015
+    - Computer science major, mathematics minor
     - GPA: 4.06/4.30 (cumulative), 4.22/4.30 (major), Summa Cum Laude
 
 ## Work Experience
 
+- **NAVER LABS**, software researcher, Feb 2022 -- Present
+    - NeRF, neural rendering, CUDA, WebGL rendering
 - **Cupix**, software researcher, Jul 2020 -- Present
     - Massive point cloud processing and rendering, photogrammetry, computational geometry
 - **Moloco**, software engineer intern, May -- Aug 2017
-    - Data analysis and data infra programming using Java and Google Cloud Platform
+    - Data analysis and data infra engineering
 - Samsung Code Mentoring, instructor, May -- Jul 2015
 - International Olympiad in Informatics (IOI), student Coach of the Korea team, 2014
 - Korea Olympiad in Informatics (KOI), coach and problem setter, 2011 -- 2015
 - International Olympiad in Informatics (IOI) Training Camp in Korea, coach and problem setter, 2010 -- 2015
 
-## Awards
-
-- ACM International Collegiate Programming Contest (ACM-ICPC)
-    - World Finals: 51st place (2015), 36th place (2012)
-    - Asia Daejeon Regional: 1st place (2014), 5th place (2013), 3rd place (2012), 1st place (2011)
-- Korea Computer Graphics Society Thesis Competition: Excellence Prize (2014)
-- Korean Mathematical Competition for University Students, Major Division: Bronze Prize (2013, 2014)
-- Undergraduate Research Program (URP): First Prize (2012)
-- Asia Pacific Informatics Olympiad (APIO): Gold Medal (1st place, 2009)
-- International Olympiad in Informatics (IOI): Gold Medal (2009), Silver Medal (2008)
-
-## Programming Skills
-
-- Modern c++, OpenGL, Vulkan, GLSL graphics and compute shaders, multi-threaded programming
-- WebGL with Typescript
-- Robot Operating System (ROS)
-
-## Projects
+## Research Experience
   
 - **Learning-Based Human Intention Prediction**, 2016 -- 2020
     - **Jae Sung Park**, Dinesh Manocha.
@@ -79,6 +64,22 @@
     - Seon-Young Park, **Jaesung Park**, Minsub Shim, Yunku Kang, Myung-Soo Kim.
     *Sweep-based Compression and Deformation of 3D Blood Vessel Models*.
     HCI 2013 (2013): 11-14.
+
+## Awards
+
+- **ACM International Collegiate Programming Contest (ACM-ICPC)**
+    - **World Finals**: 51st place (2015), 36th place (2012)
+    - **Asia Daejeon Regional**: 1st place (2014), 5th place (2013), 3rd place (2012), 1st place (2011)
+- **Asia Pacific Informatics Olympiad (APIO)**: Gold Medal (1st place, 2009)
+- **International Olympiad in Informatics (IOI)**: Gold Medal (2009), Silver Medal (2008)
+- Korea Computer Graphics Society Thesis Competition: Excellence Prize (2014)
+- Korean Mathematical Competition for University Students, Major Division: Bronze Prize (2013, 2014)
+- Undergraduate Research Program (URP): First Prize (2012)
+
+## Programming Skills
+
+- CUDA, OpenGL, Vulkan, WebGL
+- c++, python, javascript
 
 ## Scholarship/Assistantship
 
