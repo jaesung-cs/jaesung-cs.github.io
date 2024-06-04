@@ -11,11 +11,12 @@
 
 ## Work Experience
 
-- **NAVER LABS**, research software engineer, Feb 2022 -- Present
+- **Presto Labs**, **Presto Research**, Quant Researcher, Sep 2023 -- Present
+- **NAVER LABS**, Research Software Engineer, Feb 2022 -- Sep 2023 (1yr 8mo)
     - NeRF, neural rendering, CUDA programming, WebGL rendering
-- **Cupix**, research software engineer, Jul 2020 -- Present
+- **Cupix**, Research Software Engineer, Jul 2020 -- Feb 2022 (1yr 8mo)
     - Massive point cloud processing and rendering, photogrammetry, computational geometry
-- **Moloco**, software engineer intern, May -- Aug 2017
+- **Moloco**, Software Engineer Intern, May -- Aug 2017
     - Data analysis and data infra engineering
 - Samsung Code Mentoring, instructor, May -- Jul 2015
 - International Olympiad in Informatics (IOI), student Coach of the Korea team, 2014
@@ -78,8 +79,8 @@
 
 ## Programming Skills
 
-- CUDA, OpenGL, Vulkan, WebGL
-- c++, python, javascript
+- CUDA, Vulkan, OpenGL, WebGL
+- c++, python, javascript, typescript
 
 ## Scholarship/Assistantship
 
@@ -89,6 +90,13 @@
 ## Codes
 
 - My personal Vulkan projects for the purpose of learning and for fun
+    - [vkgs](https://github.com/jaesung-cs/vkgs)
+        - Gaussian Splatting viewer written in Vulkan
+    - [vk_radix_sort](https://github.com/jaesung-cs/vulkan_radix_sort)
+        - Radix sort in Vulkan
+        - Fast enough for Gaussian Splatting
+    - [mesh2glb](https://github.com/jaesung-cs/mesh2glb)
+        - Sample code of transpiling c++ to WebAssembly using emscripten and GitHub Pages deploy
     - [vkovr](https://github.com/jaesung-cs/vkovr)
         - Oculus VR SDK with Vulkan
     - [superlucent](https://github.com/jaesung-cs/superlucent)
