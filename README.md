@@ -1,111 +1,115 @@
 # Jaesung Park
 
-https://jaesung-cs.github.io/
+[https://jaesung-cs.github.io/](https://jaesung-cs.github.io/)
 
-## Education
+Email: jaesung.cs@gmail.com
 
-- **Ph.D.** in Computer Science, **University of North Carolina at Chapel Hill**, USA, Sep 2015 -- May 2020
-    - Advised by Prof. Dinesh Manocha
-    - Research interests: robot motion planning, machine learning, collision detection
-- **B.S.**, in Computer Science, **Seoul National University**, South Korea, Mar 2011 -- Feb 2015
-    - Computer science major, mathematics minor
-    - GPA: 4.06/4.30 (cumulative), 4.22/4.30 (major), Summa Cum Laude
+Github: [jaesung-cs](https://github.com/jaesung-cs)
+
+---
+Senior Software Engineer (Ph.D.) specializing in GPU systems, real-time rendering, and performance-critical C++ infrastructure.
+
+Extensive experience in Vulkan, CUDA, large-scale 3D data processing, and ML-accelerated systems.
+
+Former IOI Gold Medalist and ICPC World Finalist.
 
 ## Work Experience
 
-- **Presto Labs**, **Presto Research**, Quant Researcher, Sep 2023 -- Present
-- **NAVER LABS**, Research Software Engineer, Feb 2022 -- Sep 2023 (1yr 8mo)
-    - NeRF, neural rendering, CUDA programming, WebGL rendering
-- **Cupix**, Research Software Engineer, Jul 2020 -- Feb 2022 (1yr 8mo)
-    - Massive point cloud processing and rendering, photogrammetry, computational geometry
-- **Moloco**, Software Engineer Intern, May -- Aug 2017
-    - Data analysis and data infra engineering
-- Samsung Code Mentoring, instructor, May -- Jul 2015
-- International Olympiad in Informatics (IOI), student Coach of the Korea team, 2014
-- Korea Olympiad in Informatics (KOI), coach and problem setter, 2011 -- 2015
-- International Olympiad in Informatics (IOI) Training Camp in Korea, coach and problem setter, 2010 -- 2015
+- <b>Presto Labs</b> -- Quant Researcher <span style="float:right;">Sep 2023 -- Present</span>
+    - Research and develop systematic trading strategies.
+    - Design and maintain low-latency C++ infrastructure for research and production deployment.
+    - Optimize performance-critical components for high-throughput data processing.
+- <b>NAVER LABS</b> -- Research Software Engineer <span style="float:right;">Feb 2022 -- Sep 2023</span>
+    - Implemented high-performance rendering pipelines for massive point clouds in desktop applications.
+    - Built real-time Neural Radiance Field (NeRF) rendering systems using Vulkan.
+    - Implemented WebGL-based front-end rendering for real estate virtual tours, contributed to KR patent.
+- <b>Cupix</b> -- Research Software Engineer <span style="float:right;">Jul 2020 -- Feb 2022</span>
+    - Developed compression algorithms for large-scale unstructured point clouds.
+    - Implemented real-time WebGL rendering systems for massive 3D datasets.
+    - Worked on indoor 360$^{\circ}$ panorama image photogrammetry.
+- <b>Moloco</b> -- Software Engineer Intern <span style="float:right;">May -- Aug 2017</span>
+	- Performed data analysis.
+    - Contributed to data infrastructure engineering.
+
+## Programming Skills
+
+- **GPU programming**: CUDA, Vulkan, WebGPU, WebGL, OpenGL
+- **Language**: Modern C++, Python, JavaScript, TypeScript
+- **ML / Vision**: Neural Radiance Fields, Gaussian Splatting
+- **Systems**: Performance optimization, low-latency systems, parallel computing
+
+## Education
+
+- <b>University of North Carolina at Chapel Hill</b> <span style="float:right;">US</span><br>
+  <b>Ph.D.</b> in Compute Science <span style="float:right;">Sep 2015 -- May 2020</span>
+    - Advisor: Prof. Dinesh Manocha
+    - Research: Robot motion planning, collision detection, ML-based human motion prediction.
+- <b>Seoul National University</b> <span style="float:right;">South Korea</span><br>
+  <b>B.S.</b> in Computer Science, Minor in Mathematics <span style="float:right;">Mar 2011 -- Feb 2015</span>
+    - GPA: 4.06/4.30 (cumulative), 4.22/4.30 (major), Summa Cum Laude
 
 ## Research Experience
   
-- **Learning-Based Human Intention Prediction**, 2016 -- 2020
-    - **Jae Sung Park**, Dinesh Manocha.
-    *HMPO: Human Motion Prediction in Occluded Environments for Safe Motion Planning*.
+- **Optimization-Based Robot Motion Planning** <span style="float:right;">2015 -- 2020</span>
+    - **Jae Sung Park**, Chonhyon Park, Dinesh Manocha.<br>
+    *I-Planner: Intention-Aware Motion Planning Using Learning-Based Human Motion Prediction*.<br>
+    The International Journal of Robotics Research (IJRR) 38 (1), 23-39, 2019.
+    - **Jae Sung Park**, Chonhyon Park, Dinesh Manocha.<br>
+    *Intention-Aware Motion Planning Using Learning Based Human Motion Prediction*.<br>
+    Robotics: Science and Systems (RSS), 2017.
+    - Chonhyon Park, **Jae Sung Park**, Steve Tonneau, Nicolas Mansard, Franck Multon, Julien Pettre, Dinesh Manocha.<br>
+    *Dynamically Balanced and Plausible Trajectory Planning for Human-Like Characters*.<br>
+    Proceedings of the 20th ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games. ACM, 2016.
+- **Learning-Based Human Intention Prediction** <span style="float:right;">2016 -- 2020</span>
+    - **Jae Sung Park**, Dinesh Manocha.<br>
+    *HMPO: Human Motion Prediction in Occluded Environments for Safe Motion Planning*.<br>
     Robotics: Science and Systems (RSS), 2020.
-    - **Jae Sung Park**, Biao Jia, Mohit Bansal, Dinesh Manocha.
-    *Generating Realtime Motion Plans from Attribute-Based Natural Language Instructions Using Dynamic Constraint Mapping*.
+    - **Jae Sung Park**, Biao Jia, Mohit Bansal, Dinesh Manocha.<br>
+    *Generating Realtime Motion Plans from Attribute-Based Natural Language Instructions Using Dynamic Constraint Mapping*.<br>
     IEEE International Conference on Robotics and Automation (ICRA), 2019.
-    - **Jae Sung Park**, Chonhyon Park, Dinesh Manocha.
-    *Human Motion Prediction from Noisy Point Cloud Data for Human-Robot Interaction*.
+    - **Jae Sung Park**, Chonhyon Park, Dinesh Manocha.<br>
+    *Human Motion Prediction from Noisy Point Cloud Data for Human-Robot Interaction*.<br>
     IEEE RO-MAN workshop on Communicating Intentions in Human-Robot Interaction, 2016.
-- **Learning-Based Human Intention Prediction**, 2016 -- 2020
-    - **Jae Sung Park**, Dinesh Manocha.
-    *HMPO: Human Motion Prediction in Occluded Environments for Safe Motion Planning*.
-    Robotics: Science and Systems (RSS), 2020.
-    - **Jae Sung Park**, Biao Jia, Mohit Bansal, Dinesh Manocha.
-    *Generating Realtime Motion Plans from Attribute-Based Natural Language Instructions Using Dynamic Constraint Mapping*.
-    IEEE International Conference on Robotics and Automation (ICRA), 2019.
-    - **Jae Sung Park**, Chonhyon Park, Dinesh Manocha.
-    *Human Motion Prediction from Noisy Point Cloud Data for Human-Robot Interaction*.
-    IEEE RO-MAN workshop on Communicating Intentions in Human-Robot Interaction, 2016.
-- **Probabilistic Collision Detection Under Uncertainty**, 2016 -- 2020
-    - **Jae Sung Park**, Dinesh Manocha.
-    *Efficient Probabilistic Collision Detection for Non-Gaussian Noise Distributions*.
+- **Probabilistic Collision Detection Under Uncertainty** <span style="float:right;">2016 -- 2020</span>
+    - **Jae Sung Park**, Dinesh Manocha.<br>
+    *Efficient Probabilistic Collision Detection for Non-Gaussian Noise Distributions*.<br>
     IEEE Robotics and Automation Letters 5.2 (2020): 1024-1031.
-    - Chonhyon Park, **Jae Sung Park**, Dinesh Manocha.
-    *Fast and Bounded Probabilistic Collision Detection for High-DOF Trajectory Planning in Dynamic Environments*.
+    - Chonhyon Park, **Jae Sung Park**, Dinesh Manocha.<br>
+    *Fast and Bounded Probabilistic Collision Detection for High-DOF Trajectory Planning in Dynamic Environments*.<br>
     IEEE Transactions on Automation Science and Engineering (TASE) 15 (3), 980-991, 2018.
-    - **Jae Sung Park**, Chonhyon Park, Dinesh Manocha.
-    *Efficient Probabilistic Collision Detection for Non-Convex Shapes*.
+    - **Jae Sung Park**, Chonhyon Park, Dinesh Manocha.<br>
+    *Efficient Probabilistic Collision Detection for Non-Convex Shapes*.<br>
     IEEE International Conference on Robotics and Automation (ICRA), 1944-1951, 2017.
-    - **Jae Sung Park**, Chonhyon Park, Dinesh Manocha.
-    *Fast and Bounded Probabilistic Collision Detection for High-DOF Robots in Dynamic Environments*.
+    - **Jae Sung Park**, Chonhyon Park, Dinesh Manocha.<br>
+    *Fast and Bounded Probabilistic Collision Detection for High-DOF Robots in Dynamic Environments*.<br>
     Workshop on Algorithmic Foundations of Robotics (WAFR), 2016.
-- **Sweep-Based Surface Modeling**, 2013 -- 2014
-    - **Jaesung Park**, Minsub Shim, Seon-Young Park, Yunku Kang, Myung-Soo Kim.
-    *Realistic deformation of 3D human blood vessels*.
+- **Sweep-Based Surface Modeling** <span style="float:right;">2013 -- 2014</span>
+    - **Jaesung Park**, Minsub Shim, Seon-Young Park, Yunku Kang, Myung-Soo Kim.<br>
+    *Realistic deformation of 3D human blood vessels*.<br>
     Computer Animation and Virtual Worlds 24.3-4 (2013): 317-325.
-    - Seon-Young Park, **Jaesung Park**, Minsub Shim, Yunku Kang, Myung-Soo Kim.
-    *Sweep-based Compression and Deformation of 3D Blood Vessel Models*.
+    - Seon-Young Park, **Jaesung Park**, Minsub Shim, Yunku Kang, Myung-Soo Kim.<br>
+    *Sweep-based Compression and Deformation of 3D Blood Vessel Models*.<br>
     HCI 2013 (2013): 11-14.
 
 ## Awards
 
-- **ACM International Collegiate Programming Contest (ACM-ICPC)**
-    - **World Finals**: 51st place (2015), 36th place (2012)
-    - **Asia Daejeon Regional**: 1st place (2014), 5th place (2013), 3rd place (2012), 1st place (2011)
-- **Asia Pacific Informatics Olympiad (APIO)**: Gold Medal (1st place, 2009)
+- **ACM-ICPC World Finals**: 36th place (2012), 51st place (2015)
+- **ACM-ICPC Daejeon Regional**: 1st place (2011, 2014), 3rd place (2012), 5th place (2013)
 - **International Olympiad in Informatics (IOI)**: Gold Medal (2009), Silver Medal (2008)
-- Korea Computer Graphics Society Thesis Competition: Excellence Prize (2014)
-- Korean Mathematical Competition for University Students, Major Division: Bronze Prize (2013, 2014)
-- Undergraduate Research Program (URP): First Prize (2012)
-
-## Programming Skills
-
-- CUDA, Vulkan, OpenGL, WebGL
-- c++, python, javascript, typescript
+- **Asia Pacific Informatics Olympiad (APIO)**: 1st place (2009)
+- **Korea Computer Graphics Society Thesis Competition**: Excellence Prize (2014)
+- **Korean Mathematical Competition for University Students**, Major Division: Bronze Prize (2013, 2014)
+- **Undergraduate Research Program (URP)**: First Prize (2012)
 
 ## Scholarship/Assistantship
 
 - Doctoral Merit Assistantship, University of North Carolina at Chapel Hill, 2015
 - National Science and Engineering Undergraduate Scholarship, South Korea, 2011-2014
 
-## Codes
+## Personal Projects
 
-- My personal Vulkan projects for the purpose of learning and for fun
-    - [vkgs](https://github.com/jaesung-cs/vkgs)
-        - Gaussian Splatting viewer written in Vulkan
-    - [vk_radix_sort](https://github.com/jaesung-cs/vulkan_radix_sort)
-        - Radix sort in Vulkan
-        - Fast enough for Gaussian Splatting
-    - [mesh2glb](https://github.com/jaesung-cs/mesh2glb)
-        - Sample code of transpiling c++ to WebAssembly using emscripten and GitHub Pages deploy
-    - [vkovr](https://github.com/jaesung-cs/vkovr)
-        - Oculus VR SDK with Vulkan
-    - [superlucent](https://github.com/jaesung-cs/superlucent)
-        - Vulkan physics simulation and rendering
-        - To run simulation and rendering on GPU without CPU-GPU data transfer
-        - Smoothed Particle Hydrodynamics (SPH) fluid simulation on GPU
-        - Spatial Hashing for collision detection
-    - [elasticize](https://github.com/jaesung-cs/elasticize)
-        - Vulkan compute
-        - Radix sort on GPU with Vulkan subgroup
+- [vulkan_radix_sort](https://github.com/jaesung-cs/vulkan_radix_sort): High-performance Vulkan-based GPU radix sort implementation
+- [vkgs](https://github.com/jaesung-cs/vkgs): Vulkan-based Gaussian Splatting viewer optimized for real-time performance.
+- [splatstream](https://github.com/jaesung-cs/splatstream): Vulkan-based Gaussian Splatting viewer with Python bindings.
+
+https://github.com/user-attachments/assets/7ee79ceb-0c8d-491c-8517-b07ba0ac7fbe
