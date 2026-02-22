@@ -29,10 +29,10 @@ Former IOI Gold Medalist and ICPC World Finalist.
 
 ## Programming Skills
 
-- **Languages*: C++17/20, Python, JavaScript, TypeScript
-- **GPU / Graphics*: CUDA, Vulkan, OpenGL, WebGPU, WebGL
+- **Languages**: C++17/20, Python, JavaScript, TypeScript
+- **GPU / Graphics**: CUDA, Vulkan, OpenGL, WebGPU, WebGL
 - **Systems**: Performance optimization, low-latency systems, parallel computing
-- **ML / Vision*: Neural Radiance Fields, Gaussian Splatting
+- **ML / Vision**: Neural Radiance Fields, Gaussian Splatting
 
 ## Education
 
