@@ -4,25 +4,24 @@ Email: jaesung.cs@gmail.com<br>
 Github: [jaesung-cs](https://github.com/jaesung-cs)
 
 Senior Software Engineer (Ph.D.) specializing in GPU systems, real-time rendering, and performance-critical C++ infrastructure.<br>
-Extensive experience in Vulkan, CUDA, large-scale 3D data processing, and ML-accelerated systems.<br>
+Architect and optimize GPU-accelerated systems for 3D rendering and ML workloads using Vulkan and CUDA.<br>
 Former IOI Gold Medalist and ICPC World Finalist.
 
 ## Work Experience
 
 - <b>Presto Labs</b> -- Quant Researcher <span style="float:right;">Sep 2023 -- Present</span>
-    - Research and develop systematic trading strategies.
-    - Design and maintain low-latency C++ infrastructure for research and production deployment.
-    - Optimize performance-critical components for high-throughput data processing.
+    - Designed and maintained low-latency C++ infrastructure for research and production deployment.
+    - Improved simulation throughput by up to 10x compared to legacy systems.
 
 - <b>NAVER LABS</b> -- Research Software Engineer <span style="float:right;">Feb 2022 -- Sep 2023</span>
-    - Implemented high-performance rendering pipelines for massive point clouds in desktop applications.
-    - Built real-time Neural Radiance Field (NeRF) rendering systems using Vulkan.
-    - Implemented WebGL-based front-end rendering for real estate virtual tours, contributed to KR patent.
+    - Implemented high-performance rendering pipelines for massive point clouds in OpenGL applications.
+    - Designed Vulkan-based real-time Neural Radiance Fields (NeRF) rendering engine with GPU shader pipeline.
+    - Implemented WebGL-based 3D visualization for real estate virtual tours (contributed to KR patent).
 
 - <b>Cupix</b> -- Research Software Engineer <span style="float:right;">Jul 2020 -- Feb 2022</span>
     - Developed compression algorithms for large-scale unstructured point clouds.
-    - Implemented real-time WebGL rendering systems for massive 3D datasets.
-    - Worked on indoor 360$^{\circ}$ panorama image photogrammetry.
+    - Implemented real-time WebGL rendering systems for interactive 3D visualization in browser environments.
+    - Contributed to indoor 360° panorama reconstruction and photogrammetry systems.
 
 - <b>Moloco</b> -- Software Engineer Intern <span style="float:right;">May -- Aug 2017</span>
 	- Performed data analysis.
@@ -30,20 +29,20 @@ Former IOI Gold Medalist and ICPC World Finalist.
 
 ## Programming Skills
 
-- **GPU programming**: CUDA, Vulkan, WebGPU, WebGL, OpenGL
-- **Language**: Modern C++, Python, JavaScript, TypeScript
-- **ML / Vision**: Neural Radiance Fields, Gaussian Splatting
+- **Languages*: C++17/20, Python, JavaScript, TypeScript
+- **GPU / Graphics*: CUDA, Vulkan, OpenGL, WebGPU, WebGL
 - **Systems**: Performance optimization, low-latency systems, parallel computing
+- **ML / Vision*: Neural Radiance Fields, Gaussian Splatting
 
 ## Education
 
-- <b>University of North Carolina at Chapel Hill</b> <span style="float:right;">US</span><br>
-  <b>Ph.D.</b> in Compute Science <span style="float:right;">Sep 2015 -- May 2020</span>
+- <b>Ph.D.</b> in Compute Science <span style="float:right;">Sep 2015 -- May 2020</span><br>
+  <b>University of North Carolina at Chapel Hill</b> <span style="float:right;">USA</span>
     - Advisor: Prof. Dinesh Manocha
     - Research: Robot motion planning, collision detection, ML-based human motion prediction.
 
-- <b>Seoul National University</b> <span style="float:right;">South Korea</span><br>
-  <b>B.S.</b> in Computer Science, Minor in Mathematics <span style="float:right;">Mar 2011 -- Feb 2015</span>
+- <b>B.S.</b> in Computer Science, Minor in Mathematics <span style="float:right;">Mar 2011 -- Feb 2015</span><br>
+  <b>Seoul National University</b> <span style="float:right;">South Korea</span>
     - GPA: 4.06/4.30 (cumulative), 4.22/4.30 (major), Summa Cum Laude
 
 ## Research Experience
@@ -109,11 +108,15 @@ Former IOI Gold Medalist and ICPC World Finalist.
 
 ## Personal Projects
 
-- [vulkan_radix_sort](https://github.com/jaesung-cs/vulkan_radix_sort): High-performance Vulkan-based GPU radix sort implementation.
-- [vkgs](https://github.com/jaesung-cs/vkgs): Vulkan-based Gaussian Splatting viewer optimized for real-time performance.
-- [splatstream](https://github.com/jaesung-cs/splatstream): Vulkan-based Gaussian Splatting viewer with Python bindings.
+- [`vulkan_radix_sort`](https://github.com/jaesung-cs/vulkan_radix_sort): High-performance Vulkan-based GPU radix sort implementation.
+    - Achieved performance competitive with CUDA CUB library.
 
-<video controls width="600" height="338">
-    <source src="https://github.com/user-attachments/assets/7ee79ceb-0c8d-491c-8517-b07ba0ac7fbe">
-</video>
+- [`vkgs`](https://github.com/jaesung-cs/vkgs): Vulkan-based Gaussian Splatting viewer optimized for real-time performance.
+    - Achieved 2× speedup over the original viewer through GPU pipeline restructuring and memory optimization.
+    - Cited by Meta's [`vkraygs`](https://github.com/facebookresearch/vkraygs) research project and referenced by NVIDIA’s Vulkan demo repository [`vk_gaussian_splatting`](https://github.com/nvpro-samples/vk_gaussian_splatting).
 
+- [`splatstream`](https://github.com/jaesung-cs/splatstream): Vulkan-based Gaussian Splatting viewer with Python bindings for research.
+
+    <video controls width="600" height="338">
+        <source src="https://github.com/user-attachments/assets/7ee79ceb-0c8d-491c-8517-b07ba0ac7fbe">
+    </video>
