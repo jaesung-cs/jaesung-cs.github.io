@@ -1,16 +1,11 @@
 # Jaesung Park
 
-[https://jaesung-cs.github.io/](https://jaesung-cs.github.io/)
-
-Email: jaesung.cs@gmail.com
-
+[https://jaesung-cs.github.io/](https://jaesung-cs.github.io/)<br>
+Email: jaesung.cs@gmail.com<br>
 Github: [jaesung-cs](https://github.com/jaesung-cs)
 
----
-Senior Software Engineer (Ph.D.) specializing in GPU systems, real-time rendering, and performance-critical C++ infrastructure.
-
-Extensive experience in Vulkan, CUDA, large-scale 3D data processing, and ML-accelerated systems.
-
+Senior Software Engineer (Ph.D.) specializing in GPU systems, real-time rendering, and performance-critical C++ infrastructure.<br>
+Extensive experience in Vulkan, CUDA, large-scale 3D data processing, and ML-accelerated systems.<br>
 Former IOI Gold Medalist and ICPC World Finalist.
 
 ## Work Experience
@@ -108,7 +103,7 @@ Former IOI Gold Medalist and ICPC World Finalist.
 
 ## Personal Projects
 
-- [vulkan_radix_sort](https://github.com/jaesung-cs/vulkan_radix_sort): High-performance Vulkan-based GPU radix sort implementation
+- [vulkan_radix_sort](https://github.com/jaesung-cs/vulkan_radix_sort): High-performance Vulkan-based GPU radix sort implementation.
 - [vkgs](https://github.com/jaesung-cs/vkgs): Vulkan-based Gaussian Splatting viewer optimized for real-time performance.
 - [splatstream](https://github.com/jaesung-cs/splatstream): Vulkan-based Gaussian Splatting viewer with Python bindings.
 
