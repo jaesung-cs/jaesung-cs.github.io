@@ -1,7 +1,6 @@
 # Jaesung Park
 
-Email: jaesung.cs@gmail.com<br>
-Github: [jaesung-cs](https://github.com/jaesung-cs)
+[jaesung.cs@gmail.com](mailto:jaesung.cs@gmail.com) | [Github](https://github.com/jaesung-cs) | [CV](/assets/CV.pdf)
 
 Senior Software Engineer (Ph.D.) specializing in GPU systems, real-time rendering, and performance-critical C++ infrastructure.<br>
 Architect and optimize GPU-accelerated systems for 3D rendering and ML workloads using Vulkan and CUDA.<br>
