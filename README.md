@@ -35,8 +35,8 @@ Former IOI Gold Medalist and ICPC World Finalist.
 
 - **GPU programming**: CUDA, Vulkan, WebGPU, WebGL, OpenGL
 - **Language**: Modern C++, Python, JavaScript, TypeScript
-- **Systems**: Performance optimization, low-latency systems, parallel computing
 - **ML / Vision**: Neural Radiance Fields, Gaussian Splatting
+- **Systems**: Performance optimization, low-latency systems, parallel computing
 
 ## Education
 
@@ -112,7 +112,7 @@ Former IOI Gold Medalist and ICPC World Finalist.
 - [vkgs](https://github.com/jaesung-cs/vkgs): Vulkan-based Gaussian Splatting viewer optimized for real-time performance.
 - [splatstream](https://github.com/jaesung-cs/splatstream): Vulkan-based Gaussian Splatting viewer with Python bindings.
 
-<video controls>
+<video controls width="600" height="338">
     <source src="https://github.com/user-attachments/assets/7ee79ceb-0c8d-491c-8517-b07ba0ac7fbe">
 </video>
 
